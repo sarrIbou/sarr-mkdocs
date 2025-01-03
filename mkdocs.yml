@@ -64,9 +64,8 @@ copyright: Copyright &copy; 2024 CEM Ahoune Sane
 
 
 
-
-
-
-
-
-
+nav:
+  - Home: index.md
+  - About: code-examples.md
+  - Lessons: 
+    - SVT: Lessons/svt.md
