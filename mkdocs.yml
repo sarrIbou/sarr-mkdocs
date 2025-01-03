@@ -2,7 +2,7 @@ site_name: CEMAS
 site_url: https://ahoune-sane.netlify.app
 site_description: Pour le CEM Ahoune Sane
 site_author: Ibrahima Sarr
-repo_url: https://github.com/sarrIbou/sarr-mkdocs
+# repo_url: https://github.com/sarrIbou/sarr-mkdocs
 repo_name: sarr-mkdocs
 edit_uri: edit/master/docs/
 theme: 
