@@ -1,9 +1,9 @@
-site_name: My MkDocs Site
+site_name: CEMAS
 site_url: https://ahoune-sane.netlify.app
-site_description: A short description of my site
-site_author: John Doe
-repo_url: https://github.com/eutousarr/ahoune-sane
-repo_name: GitHub
+site_description: Pour le CEM Ahoune Sane
+site_author: Ibrahima Sarr
+repo_url: https://github.com/sarrIbou/sarr-mkdocs
+repo_name: sarr-mkdocs
 edit_uri: edit/master/docs/
 theme: 
   name: material
@@ -53,11 +53,13 @@ markdown_extensions:
 extra:
   social:
     - icon: simple/youtube
-      link: https://youtube.com/@james-willett
-    - icon: simple/linkedin
-      link: https://linkedin.com/in/willettjames
+      link: https://youtube.com/@sarrIbou
+      
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/kisarrweb
 
-copyright: Copyright &copy; 2024 James Willett
+
+copyright: Copyright &copy; 2024 CEM Ahoune Sane
 
 
 
